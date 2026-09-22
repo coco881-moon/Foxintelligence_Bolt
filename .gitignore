@@ -1,0 +1,14 @@
+# Dossier de données et fichiers lourds
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Fichiers temporaires Jupyter et Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
