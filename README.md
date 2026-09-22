@@ -45,5 +45,5 @@ L'analyse s'appuie sur des données de commandes fournies par FoxIntelligence, c
 
 ## 👤 Auteurs
 Projet d'analyse de données réalisé en binôme.
-* **[Coralie Wagner]** - *Data Analyst* - [Lien LinkedIn](URL)
-* **[Mike Laurent]** - *Data Analyst* - [Lien LinkedIn](URL)
+* **Coralie Wagner**
+* **Mike Laurent**
